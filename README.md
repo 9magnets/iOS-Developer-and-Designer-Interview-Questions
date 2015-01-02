@@ -27,7 +27,12 @@ Inspired by the wonderful [Front-end Job Interview Questions](https://github.com
 
 ####[[⬆]](#contents) <a name='tech'>iOS Technologies Questions:</a>
 
-Work in Progress
+* Explain Handoff, and in general, how it it allows iOS and Mac/web apps to communicate?
+* What technologies/services are contained inside of iCloud?
+* What is an iOS extension? Can you list a few examples of popular/common extensions?
+* What is HealthKit?
+* What is HomeKit?
+* Explain application sandboxing.
 
 ####[[⬆]](#contents) <a name='code'>Coding Questions:</a>
 
@@ -38,7 +43,7 @@ Work in Progress
 * What is the screen resolution of the iPhone 5, 6, 6+. and iPad Air 2?
 * Explain the purpose of Interface Builder, what is a NIB file?
 * What image filetype should iOS UI assets be saved in?
-* 
+* Describe some differences between a Storyboard and a standard NIB file.
 
 ####[[⬆]](#contents) <a name='design'>Design Questions:</a>
 
@@ -46,7 +51,7 @@ Work in Progress
 
 ####[[⬆]](#contents) <a name='appstore'>App Store Questions:</a>
 
-Work in Progress
+* What are In-App Purchases? How do they work?
 
 ####[[⬆]](#contents) <a name='fun'>Fun Questions:</a>
 
