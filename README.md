@@ -49,6 +49,9 @@ Inspired by the wonderful [Front-end Job Interview Questions](https://github.com
 * What is the responder chain?
 * What are the different actions buttons and other controls can respond to?
 * What is the role of the application delegate?
+* Explain NSUserDefaults. 
+* Why are caching and compression important on mobile devices?
+* Explain ~/Documents, ~/Library, ~/tmp. What directory is ~ on iOS?
 
 ####[[⬆]](#contents) <a name='code'>Coding Questions:</a>
 
@@ -57,6 +60,7 @@ Work in Progress
 ####[[⬆]](#contents) <a name='ui'>Interface Questions:</a>
 
 * What is the screen resolution of the iPhone 5, 6, 6+. and iPad Air 2?
+* What units is the resolution measured in?
 * Explain the purpose of Interface Builder, what is a NIB file?
 * What image filetype should iOS UI assets be saved in?
 * Describe some differences between a Storyboard and a standard NIB file.
@@ -69,6 +73,7 @@ Work in Progress
 * What is a split-view controller?
 * What sort of content would be appropriate to place in a picker view?
 * what does a segmented control do?
+* When are a label, text field and text view appropriate?
 * What is a modal view?
 
 ####[[⬆]](#contents) <a name='design'>Design Questions:</a>
@@ -95,6 +100,7 @@ Work in Progress
 * What is TestFlight?
 * what is a UUID?
 * When do purchase receipts need to be verified?
+* How does an app display iAds? 
 
 ####[[⬆]](#contents) <a name='fun'>Fun Questions:</a>
 
