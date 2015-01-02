@@ -77,12 +77,9 @@ Contributors: Original work by [Cameron Banga](https://twitter.com/cameronbanga)
 * Describe a popover.
 * What is a split-view controller?
 * What sort of content would be appropriate to place in a picker view?
-<<<<<<< HEAD
 * what does a segmented control do?
 * When are a label, text field and text view appropriate?
-=======
 * What does a segmented control do?
->>>>>>> 23c531af04e6a3dfa65e629c74845ab00d6a82e4
 * What is a modal view?
 * What kind of notifications does iOS offer?
 
