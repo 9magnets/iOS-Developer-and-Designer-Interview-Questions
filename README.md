@@ -27,6 +27,7 @@ Inspired by the wonderful [Front-end Job Interview Questions](https://github.com
 * Are you familiar with CocoaPods? Can you explain what they are and how they work?
 * In general, explain software licensing and how this applies to work we do.
 * Describe your general testing practices when building an iOS app.
+* How can apps support other languages, date formats and currencies?
 
 ####[[⬆]](#contents) <a name='tech'>iOS Technologies Questions:</a>
 
@@ -45,6 +46,9 @@ Inspired by the wonderful [Front-end Job Interview Questions](https://github.com
 * Explain in general, what Core Audio, Core Data, and Core Location are, and how they help iOS apps.
 * Describe the role of SpriteKit and SceneKit.
 * What is Metal?
+* What is the responder chain?
+* What are the different actions buttons and other controls can respond to?
+* What is the role of the application delegate?
 
 ####[[⬆]](#contents) <a name='code'>Coding Questions:</a>
 
