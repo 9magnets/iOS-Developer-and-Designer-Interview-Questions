@@ -28,6 +28,7 @@ Inspired by the wonderful [Front-end Job Interview Questions](https://github.com
 * In general, explain software licensing and how this applies to work we do.
 * Describe your general testing practices when building an iOS app.
 * How can apps support other languages, date formats and currencies?
+* What is Instruments and how is it useful?
 
 ####[[⬆]](#contents) <a name='tech'>iOS Technologies Questions:</a>
 
@@ -47,16 +48,22 @@ Inspired by the wonderful [Front-end Job Interview Questions](https://github.com
 * Describe the role of SpriteKit and SceneKit.
 * What is Metal?
 * What is the responder chain?
-* What are the different actions buttons and other controls can respond to?
+* What are the different actions that buttons and other controls can respond to?
 * What is the role of the application delegate?
+* Explain NSUserDefaults. 
+* Why are caching and compression important on mobile devices?
+* Explain ~/Documents, ~/Library, ~/tmp. What directory is ~ on iOS?
 
 ####[[⬆]](#contents) <a name='code'>Coding Questions:</a>
 
-Work in Progress
+* What does Cocoa Touch include and not include?
+* Why do Cocoa Touch classes start with two capital letters? 
+* What is Swift, what is Objective-C and how do they relate?
 
 ####[[⬆]](#contents) <a name='ui'>Interface Questions:</a>
 
 * What is the screen resolution of the iPhone 5, 6, 6+. and iPad Air 2?
+* What units is the resolution measured in?
 * Explain the purpose of Interface Builder, what is a NIB file?
 * What image filetype should iOS UI assets be saved in?
 * Describe some differences between a Storyboard and a standard NIB file.
@@ -69,7 +76,9 @@ Work in Progress
 * What is a split-view controller?
 * What sort of content would be appropriate to place in a picker view?
 * what does a segmented control do?
+* When are a label, text field and text view appropriate?
 * What is a modal view?
+* What kind of notifications does iOS offer?
 
 ####[[⬆]](#contents) <a name='design'>Design Questions:</a>
 
@@ -95,6 +104,7 @@ Work in Progress
 * What is TestFlight?
 * what is a UUID?
 * When do purchase receipts need to be verified?
+* How does an app display iAds? 
 
 ####[[⬆]](#contents) <a name='fun'>Fun Questions:</a>
 
