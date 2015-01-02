@@ -130,6 +130,7 @@ Inspired by the wonderful [Front-end Job Interview Questions](https://github.com
 * [Ray Wenderlich Tutorials](http://www.raywenderlich.com)
 * [iOS Version Stats](http://david-smith.org/iosversionstats/)
 * [iOS Human Interface Guidelines](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/)
+* [Black Pixel blog post on hiring iOS and Mac engineers](http://blackpixel.com/blog/2013/04/interview-questions-for-ios-and-mac-developers-1.html)
 
 ####[[⬆]](#contents) <a name='license'>License:</a>
 
