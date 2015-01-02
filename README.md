@@ -1,8 +1,8 @@
 # iOS-Developer-and-Designer-Interview-Questions
 
-A small guide to help those looking to hire a developer or designer for iOS work. While tailored for iOS, many questions could be used for Android developers or designers as well. A great self-test as well, if you're looking to keep current or practice for your own interview. 
+A small guide to help those looking to hire a developer or designer for iOS work. While tailored for iOS, many questions could be used for Android developers or designers as well. A great self-test if you're looking to keep current or practice for your own interview. 
 
-Inspired by [https://github.com/h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions), pull requests and suggestions are highly encouraged.
+Inspired by [https://github.com/h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions), pull requests and suggestions to this repository are highly encouraged.
 
 ## <a name='contents'>Table of Contents</a>
 
