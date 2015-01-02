@@ -50,13 +50,15 @@ Inspired by the wonderful [Front-end Job Interview Questions](https://github.com
 * What is the responder chain?
 * What are the different actions that buttons and other controls can respond to?
 * What is the role of the application delegate?
-* Explain NSUserDefaults. 	
+* Explain NSUserDefaults. 
 * Why are caching and compression important on mobile devices?
 * Explain ~/Documents, ~/Library, ~/tmp. What directory is ~ on iOS?
 
 ####[[⬆]](#contents) <a name='code'>Coding Questions:</a>
 
-Work in Progress
+* What does Cocoa Touch include and not include?
+* Why do Cocoa Touch classes start with two capital letters? 
+* What is Swift, what is Objective-C and how do they relate?
 
 ####[[⬆]](#contents) <a name='ui'>Interface Questions:</a>
 
