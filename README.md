@@ -36,7 +36,7 @@ Inspired by the wonderful [Front-end Job Interview Questions](https://github.com
 * What is an iOS extension? Can you list a few examples of popular/common extensions?
 * What is HealthKit?
 * What is HomeKit?
-* what is Apple Pay? Could you describe a way we could use it in our applications?
+* What is Apple Pay? Could you describe a way we could use it in our applications?
 * Explain application sandboxing.
 * What is VoiceOver? Explain some of the accessibility features included in iOS and how developers can utilize them.
 * How does application multitasking work on iOS?
@@ -68,7 +68,7 @@ Work in Progress
 * Describe a popover.
 * What is a split-view controller?
 * What sort of content would be appropriate to place in a picker view?
-* what does a segmented control do?
+* What does a segmented control do?
 * What is a modal view?
 
 ####[[⬆]](#contents) <a name='design'>Design Questions:</a>
@@ -81,7 +81,7 @@ Work in Progress
 * Describe the purpose of Auto Layout, and in general, how it works.
 * Describe the role of animation in design of software.
 * Describe the role of interactivity and feedback when designing software.
-* what are some differences to take into account when building an iPhone app vs an iPad app?
+* What are some differences to take into account when building an iPhone app vs an iPad app?
 * Describe the importance and role of prototyping when working on an app design.
 
 ####[[⬆]](#contents) <a name='appstore'>App Store Questions:</a>
@@ -93,7 +93,7 @@ Work in Progress
 * What is an App ID?
 * What are the differences between Development and Production iOS signing certificates?
 * What is TestFlight?
-* what is a UUID?
+* What is a UUID?
 * When do purchase receipts need to be verified?
 
 ####[[⬆]](#contents) <a name='fun'>Fun Questions:</a>
