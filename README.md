@@ -24,6 +24,9 @@ Inspired by the wonderful [Front-end Job Interview Questions](https://github.com
 * Do you have experience working with projects on GitHub? 
 * Do you contribute to any iOS open source projects on GitHub or a similar site?
 * Can you describe your workflow when you work on creating an iOS app?
+* Are you familiar with CocoaPods? Can you explain what they are and how they work?
+* In general, explain software licensing and how this applies to work we do.
+* Describe your general testing practices when building an iOS app.
 
 ####[[⬆]](#contents) <a name='tech'>iOS Technologies Questions:</a>
 
@@ -32,7 +35,16 @@ Inspired by the wonderful [Front-end Job Interview Questions](https://github.com
 * What is an iOS extension? Can you list a few examples of popular/common extensions?
 * What is HealthKit?
 * What is HomeKit?
+* what is Apple Pay? Could you describe a way we could use it in our applications?
 * Explain application sandboxing.
+* What is VoiceOver? Explain some of the accessibility features included in iOS and how developers can utilize them.
+* How does application multitasking work on iOS?
+* What features does Game Center offer for iOS games?
+* What are iBeacons?
+* What is Cocoa/Cocoa Touch?
+* Explain in general, what Core Audio, Core Data, and Core Location are, and how they help iOS apps.
+* Describe the roll of SpriteKit and SceneKit.
+* What is Metal?
 
 ####[[⬆]](#contents) <a name='code'>Coding Questions:</a>
 
@@ -44,14 +56,39 @@ Work in Progress
 * Explain the purpose of Interface Builder, what is a NIB file?
 * What image filetype should iOS UI assets be saved in?
 * Describe some differences between a Storyboard and a standard NIB file.
+* What is the device status bar? How tall is it in pixels? Is it opaque or transparent?
+* What is a navigation bar? Can you show me an Apple app on your phone that uses a navigation bar?
+* What is a tab bar? Can you show me an Apple app on your phone that uses a tab bar?
+* What is a toolbar? Can you show me an Apple app on your phone that uses a toolbar?
+* What is a table view? What is a collection view?
+* Describe a popover.
+* What is a split-view controller?
+* What sort of content would be appropriate to place in a picker view?
+* what does a segmented control do?
+* What is a modal view?
 
 ####[[⬆]](#contents) <a name='design'>Design Questions:</a>
 
-Work in Progress
+* What is an iOS app icon? Descrive it as best as you can.
+* What is the smallest size an app icon could be? What's the largest size it could be?
+* Can an app icon contain any transparency?
+* How does a Newsstand icon differ from a regular app icon?
+* Explain a launch image.
+* Describe the purpose of autolayout, and in general, how it works.
+* Describe the roll of animation in design of software.
+* Describe the roll of interactivity and feedback when designing software.
+* what are some differences to take into account when building an iPhone app vs an iPad app?
 
 ####[[⬆]](#contents) <a name='appstore'>App Store Questions:</a>
 
 * What are In-App Purchases? How do they work?
+* Have you ever submitted an app to the App Store? Can you explain the general process?
+* What is iTunes Connect?
+* What is a provisioning profile?
+* What is an App ID?
+* What are the differences between Development and Production iOS signing certificates?
+* What is TestFlight?
+* what is a UUID?
 
 ####[[⬆]](#contents) <a name='fun'>Fun Questions:</a>
 
@@ -72,6 +109,7 @@ Work in Progress
 * [Pttrns](http://www.pttrns.com)
 * [Ray Wenderlich Tutorials](http://www.raywenderlich.com)
 * [iOS Version Stats](http://david-smith.org/iosversionstats/)
+* [iOS Human Interface Guidelines](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/)
 
 ####[[⬆]](#contents) <a name='license'>License:</a>
 
