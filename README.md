@@ -4,6 +4,8 @@ A small guide to help those looking to hire a developer or designer for iOS work
 
 Inspired by the wonderful [Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions), I've done my best to match their format and have pulled some of their best questions for inclusion here. Pull requests and suggestions to this repository are highly encouraged.
 
+Contributors: Original work by [Cameron Banga](https://twitter.com/cameronbanga). Big thanks to [Joe Pasqualetti](http://joepasq.com) for his significant additions here so far!
+
 ## <a name='contents'>Table of Contents</a>
 
   1. [General Questions](#general)
