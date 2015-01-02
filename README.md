@@ -16,38 +16,38 @@ Inspired by [https://github.com/h5bp/Front-end-Developer-Interview-Questions](ht
   1. [Other References](#references)
   1. [License](#license)
   
-####[[⬆]](#objc) <a name='general'>General Questions:</a>
+####[[⬆]](#contents) <a name='general'>General Questions:</a>
 
 Work in Progress
 
-####[[⬆]](#objc) <a name='objc'>Objective-C Questions:</a>
+####[[⬆]](#contents) <a name='objc'>Objective-C Questions:</a>
 
 Work in Progress
 
-####[[⬆]](##swift) <a name='swift'>Swift Questions:</a>
+####[[⬆]](#contents) <a name='swift'>Swift Questions:</a>
 
 Work in Progress
 
-####[[⬆]](##ui) <a name='ui'>Interface Questions:</a>
+####[[⬆]](#contents) <a name='ui'>Interface Questions:</a>
 
 Work in Progress
 
-####[[⬆]](##design) <a name='design'>Design Questions:</a>
+####[[⬆]](#contents) <a name='design'>Design Questions:</a>
 
 Work in Progress
 
-####[[⬆]](##appstore) <a name='jscode'>App Store Questions:</a>
+####[[⬆]](#contents) <a name='jscode'>App Store Questions:</a>
 
 Work in Progress
 
-####[[⬆]](##fun) <a name='fun'>Fun Questions:</a>
+####[[⬆]](#contents) <a name='fun'>Fun Questions:</a>
 
 Work in Progress
 
-####[[⬆]](##references) <a name='references'>Other References:</a>
+####[[⬆]](#contents) <a name='references'>Other References:</a>
 
 Work in Progress
 
-####[[⬆]](##license) <a name='license'>License:</a>
+####[[⬆]](#contents) <a name='license'>License:</a>
 
 Released under the [MIT License](http://opensource.org/licenses/MIT). See LICENSE file for details.
