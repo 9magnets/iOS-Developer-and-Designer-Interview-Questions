@@ -43,7 +43,7 @@ Inspired by the wonderful [Front-end Job Interview Questions](https://github.com
 * What are iBeacons?
 * What is Cocoa/Cocoa Touch?
 * Explain in general, what Core Audio, Core Data, and Core Location are, and how they help iOS apps.
-* Describe the roll of SpriteKit and SceneKit.
+* Describe the role of SpriteKit and SceneKit.
 * What is Metal?
 
 ####[[⬆]](#contents) <a name='code'>Coding Questions:</a>
@@ -75,9 +75,10 @@ Work in Progress
 * How does a Newsstand icon differ from a regular app icon?
 * Explain a launch image.
 * Describe the purpose of autolayout, and in general, how it works.
-* Describe the roll of animation in design of software.
-* Describe the roll of interactivity and feedback when designing software.
+* Describe the role of animation in design of software.
+* Describe the role of interactivity and feedback when designing software.
 * what are some differences to take into account when building an iPhone app vs an iPad app?
+* Describe the importance and role of prototyping when working on an app design.
 
 ####[[⬆]](#contents) <a name='appstore'>App Store Questions:</a>
 
