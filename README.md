@@ -11,7 +11,7 @@ Inspired by [https://github.com/h5bp/Front-end-Developer-Interview-Questions](ht
   1. [Swift Questions](#swift)
   1. [Interface Questions](#ui)
   1. [Design Questions](#design)
-  1. [App Store Questions](#jscode)
+  1. [App Store Questions](#appstore)
   1. [Fun Questions](#fun)
   1. [Other References](#references)
   1. [License](#license)
@@ -36,7 +36,7 @@ Work in Progress
 
 Work in Progress
 
-####[[⬆]](#contents) <a name='jscode'>App Store Questions:</a>
+####[[⬆]](#contents) <a name='appstore'>App Store Questions:</a>
 
 Work in Progress
 
