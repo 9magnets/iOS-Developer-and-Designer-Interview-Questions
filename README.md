@@ -20,30 +20,34 @@ Inspired by [https://github.com/h5bp/Front-end-Developer-Interview-Questions](ht
 
 Work in Progress
 
-####[[⬆]](##swift) <a name='general'>Swift Questions:</a>
+####[[⬆]](#objc) <a name='objc'>Objective-C Questions:</a>
 
 Work in Progress
 
-####[[⬆]](##ui) <a name='general'>Interface Questions:</a>
+####[[⬆]](##swift) <a name='swift'>Swift Questions:</a>
 
 Work in Progress
 
-####[[⬆]](##design) <a name='general'>Design Questions:</a>
+####[[⬆]](##ui) <a name='ui'>Interface Questions:</a>
 
 Work in Progress
 
-####[[⬆]](##appstore) <a name='general'>App Store Questions:</a>
+####[[⬆]](##design) <a name='design'>Design Questions:</a>
 
 Work in Progress
 
-####[[⬆]](##fun) <a name='general'>Fun Questions:</a>
+####[[⬆]](##appstore) <a name='jscode'>App Store Questions:</a>
 
 Work in Progress
 
-####[[⬆]](##references) <a name='general'>Other References:</a>
+####[[⬆]](##fun) <a name='fun'>Fun Questions:</a>
 
 Work in Progress
 
-####[[⬆]](##license) <a name='general'>License:</a>
+####[[⬆]](##references) <a name='references'>Other References:</a>
+
+Work in Progress
+
+####[[⬆]](##license) <a name='license'>License:</a>
 
 Released under the [MIT License](http://opensource.org/licenses/MIT). See LICENSE file for details.
