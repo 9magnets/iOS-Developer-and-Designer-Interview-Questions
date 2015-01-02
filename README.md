@@ -113,8 +113,9 @@ Contributors: Original work by [Cameron Banga](https://twitter.com/cameronbanga)
 
 * What's a cool thing you've coded recently? What's something you've built that you're proud of?
 * What are some things you like about the developer tools you use?
+* what are some of your favorite independent Mac or iOS developers?
 * Do you have any pet projects? What kind?
-* What's your favorite feature of Xcode?
+* What would you change about Xcode?
 
 ####[[⬆]](#contents) <a name='references'>Other References:</a>
 
