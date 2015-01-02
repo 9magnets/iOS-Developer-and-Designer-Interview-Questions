@@ -4,7 +4,7 @@ A small guide to help those looking to hire a developer or designer for iOS work
 
 Inspired by the wonderful [Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions), I've done my best to match their format and have pulled some of their best questions for inclusion here. Pull requests and suggestions to this repository are highly encouraged.
 
-Contributors: Original work by [Cameron Banga](https://twitter.com/cameronbanga). Big thanks to [Joe Pasqualetti](http://joepasq.com) for his significant additions here so far!
+Contributors: Original work by [Cameron Banga](https://twitter.com/cameronbanga). Big thanks to [Joe Pasqualetti](https://joepasq.com) for his significant additions here so far!
 
 ## <a name='contents'>Table of Contents</a>
 
@@ -49,10 +49,10 @@ Contributors: Original work by [Cameron Banga](https://twitter.com/cameronbanga)
 * Explain in general, what Core Audio, Core Data, and Core Location are, and how they help iOS apps.
 * Describe the role of SpriteKit and SceneKit.
 * What is Metal?
-* What is the responder chain?
+* What is the responder chain? How does it work?
 * What are the different actions that buttons and other controls can respond to?
 * What is the role of the application delegate?
-* Explain NSUserDefaults. 
+* Explain NSUserDefaults. How would you serialize an array to disk? 
 * Why are caching and compression important on mobile devices?
 * Explain ~/Documents, ~/Library, ~/tmp. What directory is ~ on iOS?
 
@@ -60,7 +60,7 @@ Contributors: Original work by [Cameron Banga](https://twitter.com/cameronbanga)
 
 * What does Cocoa Touch include and not include?
 * Why do Cocoa Touch classes start with two capital letters? 
-* What is Swift, what is Objective-C and how do they relate?
+* What is Swift, what is Objective-C and how do they relate and compare?
 
 ####[[⬆]](#contents) <a name='ui'>Interface Questions:</a>
 
@@ -74,10 +74,9 @@ Contributors: Original work by [Cameron Banga](https://twitter.com/cameronbanga)
 * What is a tab bar? Can you show me an Apple app on your phone that uses a tab bar?
 * What is a toolbar? Can you show me an Apple app on your phone that uses a toolbar?
 * What is a table view? What is a collection view?
-* Describe a popover.
+* Describe when a popover is most appropriate.
 * What is a split-view controller?
 * What sort of content would be appropriate to place in a picker view?
-* what does a segmented control do?
 * When are a label, text field and text view appropriate?
 * What does a segmented control do?
 * What is a modal view?
@@ -98,16 +97,15 @@ Contributors: Original work by [Cameron Banga](https://twitter.com/cameronbanga)
 
 ####[[⬆]](#contents) <a name='appstore'>App Store Questions:</a>
 
-* What are In-App Purchases? How do they work?
+* What are In-App Purchases? How do they work? What can be purchased with IAP?
 * Have you ever submitted an app to the App Store? Can you explain the general process?
 * What is iTunes Connect?
 * What is a provisioning profile?
 * What is an App ID?
 * What are the differences between Development and Production iOS signing certificates?
-* What is TestFlight?
-* What is a UUID?
+* How is TestFlight used? How were UUIDs used in ad-hoc app distribution?
 * When do purchase receipts need to be verified?
-* How does an app display iAds? 
+* What is required to display iAds? 
 
 ####[[⬆]](#contents) <a name='fun'>Fun Questions:</a>
 
@@ -116,6 +114,7 @@ Contributors: Original work by [Cameron Banga](https://twitter.com/cameronbanga)
 * what are some of your favorite independent Mac or iOS developers?
 * Do you have any pet projects? What kind?
 * What would you change about Xcode?
+* What is your favorite iOS API? 
 
 ####[[⬆]](#contents) <a name='references'>Other References:</a>
 
@@ -126,6 +125,7 @@ Contributors: Original work by [Cameron Banga](https://twitter.com/cameronbanga)
 * [NSHipster](http://nshipster.com)
 * [KZBootstrap](https://github.com/krzysztofzablocki/KZBootstrap)
 * [WWDC Videos](https://developer.apple.com/videos/wwdc/2014/)
+* [ASCII WWDC](http://asciiwwdc.com)
 * [Pttrns](http://www.pttrns.com)
 * [Ray Wenderlich Tutorials](http://www.raywenderlich.com)
 * [iOS Version Stats](http://david-smith.org/iosversionstats/)
