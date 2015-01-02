@@ -7,8 +7,8 @@ Inspired by the wonderful [Front-end Job Interview Questions](https://github.com
 ## <a name='contents'>Table of Contents</a>
 
   1. [General Questions](#general)
-  1. [Objective-C Questions](#objc)
-  1. [Swift Questions](#swift)
+  1. [iOS Technologies Questions](#tech)
+  1. [Coding Questions](#code)
   1. [Interface Questions](#ui)
   1. [Design Questions](#design)
   1. [App Store Questions](#appstore)
@@ -21,19 +21,24 @@ Inspired by the wonderful [Front-end Job Interview Questions](https://github.com
 * What did you learn yesterday/this week?
 * What excites or interests you about coding?
 * Which version control systems are you familiar with?
+* Do you have experience working with projects on GitHub? 
+* Do you contribute to any iOS open source projects on GitHub or a similar site?
 * Can you describe your workflow when you work on creating an iOS app?
 
-####[[⬆]](#contents) <a name='objc'>Objective-C Questions:</a>
+####[[⬆]](#contents) <a name='tech'>iOS Technologies Questions:</a>
 
 Work in Progress
 
-####[[⬆]](#contents) <a name='swift'>Swift Questions:</a>
+####[[⬆]](#contents) <a name='code'>Coding Questions:</a>
 
 Work in Progress
 
 ####[[⬆]](#contents) <a name='ui'>Interface Questions:</a>
 
-Work in Progress
+* What is the screen resolution of the iPhone 5, 6, 6+. and iPad Air 2?
+* Explain the purpose of Interface Builder, what is a NIB file?
+* What image filetype should iOS UI assets be saved in?
+* 
 
 ####[[⬆]](#contents) <a name='design'>Design Questions:</a>
 
