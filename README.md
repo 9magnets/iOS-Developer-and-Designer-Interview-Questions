@@ -28,6 +28,7 @@ Inspired by the wonderful [Front-end Job Interview Questions](https://github.com
 * In general, explain software licensing and how this applies to work we do.
 * Describe your general testing practices when building an iOS app.
 * How can apps support other languages, date formats and currencies?
+* What is Instruments and how is it useful?
 
 ####[[⬆]](#contents) <a name='tech'>iOS Technologies Questions:</a>
 
@@ -47,9 +48,9 @@ Inspired by the wonderful [Front-end Job Interview Questions](https://github.com
 * Describe the role of SpriteKit and SceneKit.
 * What is Metal?
 * What is the responder chain?
-* What are the different actions buttons and other controls can respond to?
+* What are the different actions that buttons and other controls can respond to?
 * What is the role of the application delegate?
-* Explain NSUserDefaults. 
+* Explain NSUserDefaults. 	
 * Why are caching and compression important on mobile devices?
 * Explain ~/Documents, ~/Library, ~/tmp. What directory is ~ on iOS?
 
@@ -75,6 +76,7 @@ Work in Progress
 * what does a segmented control do?
 * When are a label, text field and text view appropriate?
 * What is a modal view?
+* What kind of notifications does iOS offer?
 
 ####[[⬆]](#contents) <a name='design'>Design Questions:</a>
 
