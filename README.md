@@ -19,7 +19,7 @@ Inspired by the wonderful [Front-end Job Interview Questions](https://github.com
 ####[[⬆]](#contents) <a name='general'>General Questions:</a>
 
 * What did you learn yesterday/this week?
-* What excites or interests you about coding?
+* What excites or interests you about making software?
 * Which version control systems are you familiar with?
 * Do you have experience working with projects on GitHub? 
 * Do you contribute to any iOS open source projects on GitHub or a similar site?
@@ -56,7 +56,7 @@ Work in Progress
 * Explain the purpose of Interface Builder, what is a NIB file?
 * What image filetype should iOS UI assets be saved in?
 * Describe some differences between a Storyboard and a standard NIB file.
-* What is the device status bar? How tall is it in pixels? Is it opaque or transparent?
+* What is the device status bar? How tall is it in pixels? Is it opaque or transparent? What does it do during a phone call or navigation?
 * What is a navigation bar? Can you show me an Apple app on your phone that uses a navigation bar?
 * What is a tab bar? Can you show me an Apple app on your phone that uses a tab bar?
 * What is a toolbar? Can you show me an Apple app on your phone that uses a toolbar?
@@ -69,12 +69,12 @@ Work in Progress
 
 ####[[⬆]](#contents) <a name='design'>Design Questions:</a>
 
-* What is an iOS app icon? Descrive it as best as you can.
+* What is an iOS app icon? Describe it as best as you can.
 * What is the smallest size an app icon could be? What's the largest size it could be?
 * Can an app icon contain any transparency?
 * How does a Newsstand icon differ from a regular app icon?
 * Explain a launch image.
-* Describe the purpose of autolayout, and in general, how it works.
+* Describe the purpose of Auto Layout, and in general, how it works.
 * Describe the role of animation in design of software.
 * Describe the role of interactivity and feedback when designing software.
 * what are some differences to take into account when building an iPhone app vs an iPad app?
@@ -90,6 +90,7 @@ Work in Progress
 * What are the differences between Development and Production iOS signing certificates?
 * What is TestFlight?
 * what is a UUID?
+* When do purchase receipts need to be verified?
 
 ####[[⬆]](#contents) <a name='fun'>Fun Questions:</a>
 
