@@ -61,6 +61,14 @@ Contributors: Original work by [Cameron Banga](https://twitter.com/cameronbanga)
 * What does Cocoa Touch include and not include?
 * Why do Cocoa Touch classes start with two capital letters? 
 * What is Swift, what is Objective-C and how do they relate and compare?
+* Explain why optionals are useful in Swift.
+* Explain `NSError` and how it works (or doesn't) in Swift.
+* When is `let` appropriate in Swift? `var`?
+* Why and where is the `map` function useful.
+* How do you track down bugs? What are your tools of choice?
+* There is a bug in Cocoa. What do you do?
+* There is a regression in a new version of our app causing a crashes on customer's devices. What do you do? How do you prevent new crashing bugs?
+* 
 
 ####[[⬆]](#contents) <a name='ui'>Interface Questions:</a>
 
@@ -115,6 +123,7 @@ Contributors: Original work by [Cameron Banga](https://twitter.com/cameronbanga)
 * Do you have any pet projects? What kind?
 * What would you change about Xcode?
 * What is your favorite iOS API? 
+* Do you have a pet or favorite bug report?
 
 ####[[⬆]](#contents) <a name='references'>Other References:</a>
 
