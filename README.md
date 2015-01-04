@@ -57,12 +57,32 @@ Contributors: Original work by [Cameron Banga](https://twitter.com/cameronbanga)
 * Explain Keychain Services.
 * Why are caching and compression important on mobile devices?
 * Explain ~/Documents, ~/Library, ~/tmp. What directory is ~ on iOS?
+* How does AirPlay work? How would you use it (programmatically) to enhance the utility and presentation of an app?
+* Give a brief overview of what sensors, IO and communication methods (Wifi, telephony, etc) are available on iOS. How can you make use of these?
+* What are the hardware performance differences among the iPad 2 / iPad mini 1-3, iPad Retina, iPad Air 2, iPhone 5, 5s, 6, and 6+. What do these constraints mean for performance intensive apps?
 
 ####[[⬆]](#contents) <a name='code'>Coding Questions:</a>
 
 * What does Cocoa Touch include and not include?
 * Why do Cocoa Touch classes start with two capital letters?
 * What is Swift, what is Objective-C and how do they relate and compare?
+* Explain why optionals are useful in Swift.
+* Explain `NSError` and how it works (or doesn't) in Swift.
+* How does `instancetype` work and how is it useful?
+* When is `let` appropriate in Swift? `var`?
+* Why and where is the `map` function useful.
+* How do you track down bugs? What are your tools of choice?
+* You found a bug in Cocoa. What do you do?
+* There is a regression in a new distributed version of our app causing crashes. How do you mitigate it? How will you prevent new bugs from reaching customers?
+* How are Objective-C classes implemented? Describe how the Objective-C runtime is implemented.
+* What security does iOS offer to protect customers and privileged information?
+* Our app downloads data and displays it immediately. In accordance with MVC where is the best place to perform the download? 
+* How does MVC influence the design of a codebase?
+* What methods are part of the controller life-cycle? The view life-cycle?
+* What design patterns does iOS make use of? What design patterns do you use in your codebase?
+* What threads does iOS provide and how can you best utilize them?
+* Give a brief description of how `UIScrollView` is implemented. How does it operate with gesture recognizers, multiple touches and the run loops?
+* What API would you add or improve on iOS?
 
 ####[[⬆]](#contents) <a name='ui'>Interface Questions:</a>
 
@@ -71,11 +91,9 @@ Contributors: Original work by [Cameron Banga](https://twitter.com/cameronbanga)
 * Explain the purpose of Interface Builder, what is a NIB file?
 * What image filetype should iOS UI assets be saved in?
 * Describe some differences between a Storyboard and a standard NIB file.
-* Describe Auto Layout.
 * What is the device status bar? How tall is it in points? Is it opaque or transparent? What does it do during a phone call or navigation?
 * What is a navigation bar? Can you show me an Apple app on your phone that uses a navigation bar?
-* What is a tab bar? Can you show me an Apple app on your phone that uses a tab bar?
-* What is a toolbar? Can you show me an Apple app on your phone that uses a toolbar?
+* What is a tab bar? What is a toolbar? Compare and contrast them.
 * What is a table view? What is a collection view?
 * Describe when a popover is most appropriate.
 * What is a split-view controller?
@@ -100,7 +118,7 @@ Contributors: Original work by [Cameron Banga](https://twitter.com/cameronbanga)
 
 ####[[⬆]](#contents) <a name='appstore'>App Store Questions:</a>
 
-* What are In-App Purchases? How do they work? What can be purchased with IAP?
+* How do In-App Purchases work? What can be purchased with IAP?
 * Have you ever submitted an app to the App Store? Can you explain the general process?
 * What is iTunes Connect?
 * What is a provisioning profile?
@@ -114,10 +132,13 @@ Contributors: Original work by [Cameron Banga](https://twitter.com/cameronbanga)
 
 * What's a cool thing you've coded recently? What's something you've built that you're proud of?
 * What are some things you like about the developer tools you use?
-* what are some of your favorite independent Mac or iOS developers?
+* Who are some of your favorite independent Mac or iOS developers?
 * Do you have any pet projects? What kind?
 * What would you change about Xcode?
-* What is your favorite iOS API?
+* What is your favorite iOS API? 
+* Do you have a pet or favorite bug report?
+* What are your favorite ways to investigate an new technology?
+* Why are dictionaries called dictionaries? Why not hash tables or hash maps?
 
 ####[[⬆]](#contents) <a name='references'>Other References:</a>
 
