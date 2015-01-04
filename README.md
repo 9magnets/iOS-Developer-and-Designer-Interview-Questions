@@ -55,6 +55,9 @@ Contributors: Original work by [Cameron Banga](https://twitter.com/cameronbanga)
 * Explain NSUserDefaults. How would you serialize an array to disk? 
 * Why are caching and compression important on mobile devices?
 * Explain ~/Documents, ~/Library, ~/tmp. What directory is ~ on iOS?
+* How does AirPlay work? How would you use it (programmatically) to enhance the utility and presentation of an app?
+* Give a brief overview of what sensors, IO and communication methods (Wifi, telephony, etc) are available on iOS. How can you make use of these?
+* What are the hardware performance differences among the iPad 2 / iPad mini 1-3, iPad Retina, iPad Air 2, iPhone 5, 5s, 6, and 6+. What do these constraints mean for performance intensive apps?
 
 ####[[⬆]](#contents) <a name='code'>Coding Questions:</a>
 
@@ -63,12 +66,21 @@ Contributors: Original work by [Cameron Banga](https://twitter.com/cameronbanga)
 * What is Swift, what is Objective-C and how do they relate and compare?
 * Explain why optionals are useful in Swift.
 * Explain `NSError` and how it works (or doesn't) in Swift.
+* How does `instancetype` work and how is it useful.
 * When is `let` appropriate in Swift? `var`?
 * Why and where is the `map` function useful.
 * How do you track down bugs? What are your tools of choice?
 * There is a bug in Cocoa. What do you do?
-* There is a regression in a new version of our app causing a crashes on customer's devices. What do you do? How do you prevent new crashing bugs?
-* 
+* There is a regression in a new distributed version of our app causing crashes. What do you do? How do you prevent new bugs?
+* How are Objective-C classes implemented? Describe how the Objective-C runtime is implemented.
+* What security does iOS offer to protect customers and privileged information?
+* Our app downloads data and displays it in a table view. In accordance with MVC where is the best place to perform the download? 
+* How does MVC influence the design of a codebase?
+* What methods are part of the controller life-cycle? The view life-cycle?
+* What design patterns does iOS make use of? What design patterns do you use in your codebase?
+* What threads does iOS provide and how can you best utilize them?
+* Give a brief description of how `UIScrollView` is implemented. How does it operate with gesture recognizers, multiple touches and the run loops?
+* What API would you add or improve on iOS?
 
 ####[[⬆]](#contents) <a name='ui'>Interface Questions:</a>
 
@@ -124,6 +136,7 @@ Contributors: Original work by [Cameron Banga](https://twitter.com/cameronbanga)
 * What would you change about Xcode?
 * What is your favorite iOS API? 
 * Do you have a pet or favorite bug report?
+* What are your favorite ways to investigate an new technology?
 
 ####[[⬆]](#contents) <a name='references'>Other References:</a>
 
