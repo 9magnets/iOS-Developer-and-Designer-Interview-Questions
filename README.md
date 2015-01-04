@@ -1,6 +1,6 @@
 # iOS-Developer-and-Designer-Interview-Questions
 
-A small guide to help those looking to hire a developer or designer for iOS work. While tailored for iOS, many questions could be used for Android developers or designers as well. A great self-test if you're looking to keep current or practice for your own interview. 
+A small guide to help those looking to hire a developer or designer for iOS work. While tailored for iOS, many questions could be used for Android developers or designers as well. A great self-test if you're looking to keep current or practice for your own interview.
 
 Inspired by the wonderful [Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions), I've done my best to match their format and have pulled some of their best questions for inclusion here. Pull requests and suggestions to this repository are highly encouraged.
 
@@ -17,13 +17,13 @@ Contributors: Original work by [Cameron Banga](https://twitter.com/cameronbanga)
   1. [Fun Questions](#fun)
   1. [Other References](#references)
   1. [License](#license)
-  
+
 ####[[⬆]](#contents) <a name='general'>General Questions:</a>
 
 * What did you learn yesterday/this week?
 * What excites or interests you about making software?
 * Which version control systems are you familiar with?
-* Do you have experience working with projects on GitHub? 
+* Do you have experience working with projects on GitHub?
 * Do you contribute to any iOS open source projects on GitHub or a similar site?
 * Can you describe your workflow when you work on creating an iOS app?
 * Are you familiar with CocoaPods? Can you explain what they are and how they work?
@@ -52,7 +52,9 @@ Contributors: Original work by [Cameron Banga](https://twitter.com/cameronbanga)
 * What is the responder chain? How does it work?
 * What are the different actions that buttons and other controls can respond to?
 * What is the role of the application delegate?
-* Explain NSUserDefaults. How would you serialize an array to disk? 
+* Explain NSUserDefaults. How would you serialize an array to disk?
+* How would you store user's credentials?
+* Explain Keychain Services.
 * Why are caching and compression important on mobile devices?
 * Explain ~/Documents, ~/Library, ~/tmp. What directory is ~ on iOS?
 * How does AirPlay work? How would you use it (programmatically) to enhance the utility and presentation of an app?
@@ -62,7 +64,7 @@ Contributors: Original work by [Cameron Banga](https://twitter.com/cameronbanga)
 ####[[⬆]](#contents) <a name='code'>Coding Questions:</a>
 
 * What does Cocoa Touch include and not include?
-* Why do Cocoa Touch classes start with two capital letters? 
+* Why do Cocoa Touch classes start with two capital letters?
 * What is Swift, what is Objective-C and how do they relate and compare?
 * Explain why optionals are useful in Swift.
 * Explain `NSError` and how it works (or doesn't) in Swift.
@@ -89,7 +91,8 @@ Contributors: Original work by [Cameron Banga](https://twitter.com/cameronbanga)
 * Explain the purpose of Interface Builder, what is a NIB file?
 * What image filetype should iOS UI assets be saved in?
 * Describe some differences between a Storyboard and a standard NIB file.
-* What is the device status bar? How tall is it in pixels? Is it opaque or transparent? What does it do during a phone call or navigation?
+* Describe Auto Layout.
+* What is the device status bar? How tall is it in points? Is it opaque or transparent? What does it do during a phone call or navigation?
 * What is a navigation bar? Can you show me an Apple app on your phone that uses a navigation bar?
 * What is a tab bar? Can you show me an Apple app on your phone that uses a tab bar?
 * What is a toolbar? Can you show me an Apple app on your phone that uses a toolbar?
@@ -125,7 +128,7 @@ Contributors: Original work by [Cameron Banga](https://twitter.com/cameronbanga)
 * What are the differences between Development and Production iOS signing certificates?
 * How is TestFlight used? How were UUIDs used in ad-hoc app distribution?
 * When do purchase receipts need to be verified?
-* What is required to display iAds? 
+* What is required to display iAds?
 
 ####[[⬆]](#contents) <a name='fun'>Fun Questions:</a>
 
