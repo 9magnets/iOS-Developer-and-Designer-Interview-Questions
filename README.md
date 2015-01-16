@@ -80,7 +80,7 @@ Contributors: Original work by [Cameron Banga](https://twitter.com/cameronbanga)
 * How does MVC influence the design of a codebase?
 * What methods are part of the controller life-cycle? The view life-cycle?
 * What design patterns does iOS make use of? What design patterns do you use in your codebase?
-* What threads does iOS provide and how can you best utilize them?
+* What queues does iOS provide and how can you best utilize them?
 * Give a brief description of how `UIScrollView` is implemented. How does it operate with gesture recognizers, multiple touches and the run loops?
 * What API would you add or improve on iOS?
 
