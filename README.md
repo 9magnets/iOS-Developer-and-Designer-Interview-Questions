@@ -137,7 +137,7 @@ Contributors: Original work by [Cameron Banga](https://twitter.com/cameronbanga)
 * What would you change about Xcode?
 * What is your favorite iOS API? 
 * Do you have a pet or favorite bug report?
-* What are your favorite ways to investigate an new technology?
+* What are your favorite ways to investigate a new technology?
 * Why are dictionaries called dictionaries? Why not hash tables or hash maps?
 
 ####[[⬆]](#contents) <a name='references'>Other References:</a>
