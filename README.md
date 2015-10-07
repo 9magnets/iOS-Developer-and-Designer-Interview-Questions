@@ -34,7 +34,7 @@ Contributors: Original work by [Cameron Banga](https://twitter.com/cameronbanga)
 
 ####[[⬆]](#contents) <a name='tech'>iOS Technologies Questions:</a>
 
-* Explain Handoff, and in general, how it it allows iOS and Mac/web apps to communicate?
+* Explain Handoff, and in general, how it allows iOS and Mac/web apps to communicate?
 * What technologies/services are contained inside of iCloud?
 * What is an iOS extension? Can you list a few examples of popular/common extensions?
 * What is HealthKit?
