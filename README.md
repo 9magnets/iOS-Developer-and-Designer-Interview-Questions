@@ -18,7 +18,7 @@ Contributors: Original work by [Cameron Banga](https://twitter.com/cameronbanga)
   1. [Other References](#references)
   1. [License](#license)
 
-####[[⬆]](#contents) <a name='general'>General Questions:</a>
+#### [[⬆]](#contents) <a name='general'>General Questions:</a>
 
 * What did you learn yesterday/this week?
 * What excites or interests you about making software?
@@ -32,7 +32,7 @@ Contributors: Original work by [Cameron Banga](https://twitter.com/cameronbanga)
 * How can apps support other languages, date formats and currencies?
 * What is Instruments and how is it useful?
 
-####[[⬆]](#contents) <a name='tech'>iOS Technologies Questions:</a>
+#### [[⬆]](#contents) <a name='tech'>iOS Technologies Questions:</a>
 
 * Explain Handoff, and in general, how it allows iOS and Mac/web apps to communicate?
 * What technologies/services are contained inside of iCloud?
@@ -61,7 +61,7 @@ Contributors: Original work by [Cameron Banga](https://twitter.com/cameronbanga)
 * Give a brief overview of what sensors, IO and communication methods (Wifi, telephony, etc) are available on iOS. How can you make use of these?
 * What are the hardware performance differences among the iPad 2 / iPad mini 1-3, iPad Retina, iPad Air 2, iPhone 5, 5s, 6, and 6+. What do these constraints mean for performance intensive apps?
 
-####[[⬆]](#contents) <a name='code'>Coding Questions:</a>
+#### [[⬆]](#contents) <a name='code'>Coding Questions:</a>
 
 * What does Cocoa Touch include and not include?
 * Why do Cocoa Touch classes start with two capital letters?
@@ -76,7 +76,7 @@ Contributors: Original work by [Cameron Banga](https://twitter.com/cameronbanga)
 * There is a regression in a new distributed version of our app causing crashes. How do you mitigate it? How will you prevent new bugs from reaching customers?
 * How are Objective-C classes implemented? Describe how the Objective-C runtime is implemented.
 * What security does iOS offer to protect customers and privileged information?
-* Our app downloads data and displays it immediately. In accordance with MVC where is the best place to perform the download? 
+* Our app downloads data and displays it immediately. In accordance with MVC where is the best place to perform the download?
 * How does MVC influence the design of a codebase?
 * What methods are part of the controller life-cycle? The view life-cycle?
 * What design patterns does iOS make use of? What design patterns do you use in your codebase?
@@ -84,7 +84,7 @@ Contributors: Original work by [Cameron Banga](https://twitter.com/cameronbanga)
 * Give a brief description of how `UIScrollView` is implemented. How does it operate with gesture recognizers, multiple touches and the run loops?
 * What API would you add or improve on iOS?
 
-####[[⬆]](#contents) <a name='ui'>Interface Questions:</a>
+#### [[⬆]](#contents) <a name='ui'>Interface Questions:</a>
 
 * What is the screen resolution of the iPhone 5, 6, 6+. and iPad Air 2?
 * What units is the resolution measured in?
@@ -103,7 +103,7 @@ Contributors: Original work by [Cameron Banga](https://twitter.com/cameronbanga)
 * What is a modal view?
 * What kind of notifications does iOS offer?
 
-####[[⬆]](#contents) <a name='design'>Design Questions:</a>
+#### [[⬆]](#contents) <a name='design'>Design Questions:</a>
 
 * What is an iOS app icon? Describe it as best as you can.
 * What is the smallest size an app icon could be? What's the largest size it could be?
@@ -116,7 +116,7 @@ Contributors: Original work by [Cameron Banga](https://twitter.com/cameronbanga)
 * What are some differences to take into account when building an iPhone app vs an iPad app?
 * Describe the importance and role of prototyping when working on an app design.
 
-####[[⬆]](#contents) <a name='appstore'>App Store Questions:</a>
+#### [[⬆]](#contents) <a name='appstore'>App Store Questions:</a>
 
 * How do In-App Purchases work? What can be purchased with IAP?
 * Have you ever submitted an app to the App Store? Can you explain the general process?
@@ -128,19 +128,19 @@ Contributors: Original work by [Cameron Banga](https://twitter.com/cameronbanga)
 * When do purchase receipts need to be verified?
 * What is required to display iAds?
 
-####[[⬆]](#contents) <a name='fun'>Fun Questions:</a>
+#### [[⬆]](#contents) <a name='fun'>Fun Questions:</a>
 
 * What's a cool thing you've coded recently? What's something you've built that you're proud of?
 * What are some things you like about the developer tools you use?
 * Who are some of your favorite independent Mac or iOS developers?
 * Do you have any pet projects? What kind?
 * What would you change about Xcode?
-* What is your favorite iOS API? 
+* What is your favorite iOS API?
 * Do you have a pet or favorite bug report?
 * What are your favorite ways to investigate a new technology?
 * Why are dictionaries called dictionaries? Why not hash tables or hash maps?
 
-####[[⬆]](#contents) <a name='references'>Other References:</a>
+#### [[⬆]](#contents) <a name='references'>Other References:</a>
 
 * [iOS Dev Weekly](https://iosdevweekly.com)
 * [Accidental Tech Podcast](http://atp.fm)
@@ -157,6 +157,6 @@ Contributors: Original work by [Cameron Banga](https://twitter.com/cameronbanga)
 * [Black Pixel blog post on hiring iOS and Mac engineers](http://blackpixel.com/blog/2013/04/interview-questions-for-ios-and-mac-developers-1.html)
 * [Macoscope guide to a technical interview](http://macoscope.com/blog/so-you-have-a-technical-interview-at-macoscope/)
 
-####[[⬆]](#contents) <a name='license'>License:</a>
+#### [[⬆]](#contents) <a name='license'>License:</a>
 
 Released under the [MIT License](http://opensource.org/licenses/MIT). See LICENSE file for details.
